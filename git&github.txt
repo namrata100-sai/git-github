@@ -14,4 +14,14 @@ website that allows developers to store and manage their code using git
 git comands 
 clone - clone menas we are coping the code through github in our local machine means computer
 
+status - git status command used to check the what all changes happend in our code
+
+untracked-
+new files that git doesn't yet track
+
+modified - changed
+
+ummodified - files not yet changed
+
+staged - file is ready to be committed
 
