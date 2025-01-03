@@ -1,0 +1,17 @@
+what is a git 
+-> git is a version control system tools 
+which helps as to track histroy of our code 
+means we can track the changes happed in our code like which file is get creacted at what time also which files is updated etc
+which file is deleted
+
+2. and also its collaborate  and it free and open source
+
+
+github
+website that allows developers to store and manage their code using git
+
+
+git comands 
+clone - clone menas we are coping the code through github in our local machine means computer
+
+
