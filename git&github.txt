@@ -23,5 +23,10 @@ modified - changed
 
 ummodified - files not yet changed
 
-staged - file is ready to be committed
+staged - file is ready to be committed 
+when we stage the files means clicking to + icon mean are file is add but not yet commited
 
+commad 1 - git log --oneline => this will track the stage file and commited file(basically it show how many save pint means stages is done)
+''      2 - git reset --hard HEAD~1 => this command go back to the previus stage or it delete the current stage
+''     3 - git status => this will track which file is commited which untracked or updeted etc
+ ''   4 - git status -s => this will show only thos file which are stage but not yet commited
