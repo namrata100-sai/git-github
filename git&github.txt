@@ -39,3 +39,14 @@ to create branch  - git branch branch_name
 to switch the branch - git switch branch_name 
 to cretae and switch brach at onace - got switch -c brach_namre (if branch is not exists)
 to delete - git branch -d branch_name
+
+**
+git fetch - when there is person which clone the g it code and add some new code ten she/he upload that code in github
+            and how use created main branch that person can access that code in his/here local machine using git fetch and if that code is correct then they can marge that code in main 
+
+**
+git stash
+git stash apply
+
+**
+git pull - is used to fetch and integerate the changes which are present in the remote repository to the local repository
