@@ -30,3 +30,7 @@ commad 1 - git log --oneline => this will track the stage file and commited file
 ''      2 - git reset --hard HEAD~1 => this command go back to the previus stage or it delete the current stage
 ''     3 - git status => this will track which file is commited which untracked or updeted etc
  ''   4 - git status -s => this will show only thos file which are stage but not yet commited
+
+branches in git 
+=> it like new or separate version of the main repository
+means insted of writting all the cod in main branch we are craeted different different braches & then if it correct we are margeing in to main branch
